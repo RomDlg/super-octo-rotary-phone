@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">super_octo_rotary_phone</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoicm9tZGxnIiwiYSI6ImNreTl5ZmVzdDAwYTgydXFuMXJqd21lcmYifQ.w3yc9T8itMdj4k_DN3oc-w</string>
 </resources>
