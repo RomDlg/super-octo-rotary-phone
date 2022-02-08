@@ -1,4 +1,4 @@
-# probable-guacamole-game
+# Super-Octo-Rotary-Phone
 
 A small Android game written for training purposes.
 
